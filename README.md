@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Project only build to understand React Native and its components.
+Projet démarré pour monter en compétence dans l'environnement React Native.
 
 ## Setup the project
 
